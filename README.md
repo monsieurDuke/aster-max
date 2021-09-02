@@ -8,7 +8,7 @@
 I do love making contributions to open-source more approachable. Currently creating a platform called <strong>Cookie Portal</strong> to share tutorials, coding series, and project documentations. The platform itself are community-driven, means that anyone can contribute and become the member to the platform :muscle::wave:
 
 
-## :raised_hands: See me around da 🌎 <a href="#"><img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
+## :raised_hands: See me around da 🌎 <img align="left" width="200" height="200" src="octocat.gif?raw=true">
 - Cooking some snacks in <a href="https://www.hotpotcookie.github.io">Cookie Portal</a> :cookie:
 - Documenting kool assignments on <a href="https://codepen.io/m0nica">YouTube</a> :baby_chick:
 - Sharing updates on <a href="https://www.linkedin.com/in/mnurirsyad/">LinkedIn</a> :bell:
