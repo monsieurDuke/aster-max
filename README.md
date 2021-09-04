@@ -13,4 +13,5 @@ I do love making contributions to open-source more approachable. Currently creat
 - Documenting kool assignments on <a href="https://codepen.io/m0nica">YouTube</a> :baby_chick:
 - Sharing updates on <a href="https://www.linkedin.com/in/mnurirsyad/">LinkedIn</a> :bell:
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=irsyadzahardjil&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=irsyadzahardjil&cover_image=true&theme=natemoo-re)]]
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=irsyadzahardjil&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
